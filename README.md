@@ -18,3 +18,11 @@ Ans:
 
 	I found this place, and flag is thm{cori***_**_****}
 
+Task 5: Web: Notepad Online
+
+Ans: 
+Step 1: Visit target IP.
+Step 2: Enter Login credentials. Username: noel & Password: pass1234
+Step 3: I noticed that the URL contained a note_id, so I tried change the note_id 1, then 2, then 3, etc. At note number 5, I found a hint.
+Step 4: Now I set note_id=0
+Now, I get the flag.
