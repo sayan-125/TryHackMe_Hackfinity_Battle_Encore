@@ -19,3 +19,26 @@ Ans:
 	I found this place, and flag is thm{cori***_**_****}
 
  
+### **Task 5:** Web: Notepad Online
+
+![Capture](https://github.com/user-attachments/assets/146c92f4-839d-4596-bf24-5f8340384b1a)
+
+Ans: 
+
+	Step 1: Visit target IP.
+
+![1](https://github.com/user-attachments/assets/d5a0c6b0-8f55-402f-90cc-3469f10a8352)
+
+	Step 2: Enter Login credentials. Username: noel & Password: pass1234
+
+![2](https://github.com/user-attachments/assets/21efa80f-1737-4f96-8ed9-0ba0412d278e)
+
+	Step 3: I noticed that the URL contained a note_id, so I tried change the note_id 1, then 2, then 3, etc. At note number 5, I found a hint.
+
+![3](https://github.com/user-attachments/assets/77f997d3-8bdd-4ee5-9370-8f276962f69b)
+
+	Step 4: Now I set note_id=0
+
+![4](https://github.com/user-attachments/assets/bbc37aec-94fb-4650-be9c-9d887c836bcd)
+
+	Now, I get the flag.
